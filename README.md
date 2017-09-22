@@ -1,5 +1,5 @@
 # gtranotify
-Translate and Notify selected text with Google Translate. Many thanks to "KarBoraN" for translation app idea.
+Translate and Notify selected text with http://mymemory.translated.net/. Many thanks to "KarBoraN" for translation app idea.
 
 ## Prerequisites
 
